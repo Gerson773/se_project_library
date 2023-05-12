@@ -266,7 +266,7 @@
   flex-wrap: wrap;
   max-width: 760px;
   justify-content: space-around;
-  row-gap: 40px;
+  gap: 40px;
   list-style-type: none;
   margin-top: 68px;
   margin-bottom: 40px;
