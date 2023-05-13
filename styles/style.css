@@ -21,7 +21,6 @@
 .nav {
   display: flex;
   justify-content: space-between;
-  padding-bottom: 150px;
   align-items: center;
 }
 
@@ -61,6 +60,7 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 532px;
+  margin: 32px 0 0;
 }
 
 .header__image {
