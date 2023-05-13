@@ -332,9 +332,10 @@
   padding: 0;
   margin: 100px 0 0;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
   flex-basis: 40px;
   display: flex;
+  gap: 40px;
 }
 
 .step {
