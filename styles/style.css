@@ -270,9 +270,10 @@
   gap: 40px;
   list-style-type: none;
   margin-top: 68px;
-  margin-bottom: 40px;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 0;
+  padding-left: 0;
 }
 
 .card {
