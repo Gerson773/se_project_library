@@ -382,12 +382,11 @@
   line-height: 30px;
   font-weight: 400;
   max-width: 660px;
-  margin: auto 120px;
+  margin-left: 120px;
 }
 
 .about__paragraph {
   margin: 0 0 32px;
-  overflow: scroll;
 }
 
 .about__paragraph:nth-of-type(3n) {
