@@ -415,7 +415,6 @@
   min-height: 224px;
   display: flex;
   flex-direction: row;
-  padding-top: 60px;
 }
 
 .footer__column_content_hours {
