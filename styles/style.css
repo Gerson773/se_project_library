@@ -445,7 +445,11 @@
 }
 
 .footer__list-item {
-  margin: 16px 0 0;
+  margin-bottom: 16px;
+}
+
+.foorer__list-item:first-of-type {
+  margin-top: 0;
 }
 
 .footer__column-heading {
