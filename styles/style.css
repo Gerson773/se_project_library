@@ -20,7 +20,6 @@
 
 .nav {
   display: flex;
-  padding: 8px;
   justify-content: space-between;
   padding-bottom: 150px;
 }
