@@ -22,6 +22,7 @@
   display: flex;
   justify-content: space-between;
   padding-bottom: 150px;
+  align-items: center;
 }
 
 .logo {
