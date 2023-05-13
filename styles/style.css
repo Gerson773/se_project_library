@@ -427,7 +427,6 @@
 }
 
 .footer__column_content_social {
-  margin-right: 102px;
   column-gap: 16px;
   display: flex;
   flex-direction: column;
