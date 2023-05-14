@@ -448,8 +448,8 @@
   margin-bottom: 16px;
 }
 
-.foorer__list-item:last-of-type {
-  margin-top: 0;
+.footer__list-item:last-of-type {
+  margin-bottom: 0;
 }
 
 .footer__column-heading {
